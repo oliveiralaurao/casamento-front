@@ -25,3 +25,7 @@
 2. **Consistência Visual**: Manter uma identidade visual consistente em todas as páginas e seções do site, incluindo cores, fontes e estilo de elementos gráficos.
 3. **Compatibilidade Cross-browser**: Garantir que o site funcione corretamente em todos os principais navegadores, incluindo Chrome, Firefox, Safari, Edge e outros.
 
+### Tarefas
+
+1. Testar o site nos principais navegadores (Chrome, Firefox, Safari, Edge) para garantir que todos os elementos funcionem corretamente.
+2. Garantir a acessibilidade em todos os elementos do site.
